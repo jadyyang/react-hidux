@@ -1,6 +1,6 @@
 {
   "name": "react-hidux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "一个简化的、私有的、满足immutable原则的、基于react的状态管理方案",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jadyyang/react-hidux/issues"
   },
-  "homepage": "https://github.com/jadyyang/react-hidux#readme"
+  "homepage": "https://github.com/jadyyang/react-hidux#readme",
+  "dependencies": {
+    "react": ">=16.3.0"
+  }
 }
